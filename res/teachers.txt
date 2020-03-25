@@ -1,0 +1,5 @@
+1,name1,email@1,LECTURER,111
+2,name2,email@2,ASSISTANT,222
+3,name3,email@3,PROFESSOR,333
+4,name4,email@4,LECTURER,444
+5,name5,email@5,ASSISTANT,555
